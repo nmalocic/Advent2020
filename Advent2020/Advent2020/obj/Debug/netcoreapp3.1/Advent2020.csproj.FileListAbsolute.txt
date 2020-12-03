@@ -62,3 +62,4 @@ C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\runtimes\win\li
 C:\Work\Advent2020\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.csproj.CopyComplete
 C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayOne\input.txt
 C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayTwo\input.txt
+C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayThree\input.txt
