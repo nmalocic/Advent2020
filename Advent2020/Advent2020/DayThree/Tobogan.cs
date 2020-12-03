@@ -34,8 +34,9 @@ namespace Advent2020.DayThree
         {
             long numberOfThrees = 0;
             int column = 0;
-            for (int i = 1; i < input.Length; i += down) 
+            for (int i = 0; i < input.Length; i += down) 
             {
+                if (i == 0) continue;
                 string currentBiom = input[i];
                 column += right;
                 if (column >= 31)
