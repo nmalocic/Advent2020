@@ -1,4 +1,5 @@
-﻿using Advent2020.DayFour;
+﻿using Advent2020.DayFive;
+using Advent2020.DayFour;
 using Advent2020.DayOne;
 using Advent2020.DayThree;
 using Advent2020.DayTwo;
@@ -23,8 +24,14 @@ namespace Advent2020
             //long result = tobogan.GetNumberOfTreesHit();
             //long result2 = tobogan.AllHitnRoute();
 
-            PassportScanner ps = new PassportScanner();
-            int result = ps.GetNumberOfValidPassports();
+            //PassportScanner ps = new PassportScanner();
+            //int result = ps.GetNumberOfValidPassports();
+
+
+            SeatFinder sf = new SeatFinder();
+            int result = sf.FindMaxSeatId();
+            int result2 = sf.FindMySeat();
+
         }
     }
 }
