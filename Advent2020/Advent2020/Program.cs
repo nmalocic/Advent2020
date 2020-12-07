@@ -1,4 +1,5 @@
-﻿using Advent2020.DayOne;
+﻿using Advent2020.DayFour;
+using Advent2020.DayOne;
 using Advent2020.DayThree;
 using Advent2020.DayTwo;
 using System;
@@ -18,9 +19,12 @@ namespace Advent2020
             //int numberOfValid = passwordValidator.GetNumberOfValidPasswords();
             //int secondValidation = passwordValidator.GetNumberOfValidPassowrds2();
 
-            Tobogan tobogan = new Tobogan();
-            long result = tobogan.GetNumberOfTreesHit();
-            long result2 = tobogan.AllHitnRoute();
+            //Tobogan tobogan = new Tobogan();
+            //long result = tobogan.GetNumberOfTreesHit();
+            //long result2 = tobogan.AllHitnRoute();
+
+            PassportScanner ps = new PassportScanner();
+            int result = ps.GetNumberOfValidPassports();
         }
     }
 }

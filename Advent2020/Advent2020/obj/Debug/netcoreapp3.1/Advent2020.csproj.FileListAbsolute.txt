@@ -63,3 +63,4 @@ C:\Work\Advent2020\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.cspr
 C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayOne\input.txt
 C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayTwo\input.txt
 C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayThree\input.txt
+C:\Work\Advent2020\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\DayFour\input.txt
