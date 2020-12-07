@@ -1,6 +1,7 @@
 ﻿using Advent2020.DayFive;
 using Advent2020.DayFour;
 using Advent2020.DayOne;
+using Advent2020.DaySix;
 using Advent2020.DayThree;
 using Advent2020.DayTwo;
 using System;
@@ -28,9 +29,13 @@ namespace Advent2020
             //int result = ps.GetNumberOfValidPassports();
 
 
-            SeatFinder sf = new SeatFinder();
-            int result = sf.FindMaxSeatId();
-            int result2 = sf.FindMySeat();
+            //SeatFinder sf = new SeatFinder();
+            //int result = sf.FindMaxSeatId();
+            //int result2 = sf.FindMySeat();
+
+            FormStuff fs = new FormStuff();
+            int result = fs.SumOfAllCounts();
+            int result2 = fs.SumOfEvery();
 
         }
     }
